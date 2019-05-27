@@ -1,0 +1,10 @@
+C:\Users\Robert\Desktop\Teme Poo\Taxa de Mediu\Taxa de Mediu\bin\Debug\Taxa de Mediu.exe.config
+C:\Users\Robert\Desktop\Teme Poo\Taxa de Mediu\Taxa de Mediu\bin\Debug\Taxa de Mediu.exe
+C:\Users\Robert\Desktop\Teme Poo\Taxa de Mediu\Taxa de Mediu\bin\Debug\Taxa de Mediu.pdb
+C:\Users\Robert\Desktop\Teme Poo\Taxa de Mediu\Taxa de Mediu\obj\Debug\Taxa de Mediu.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\Teme Poo\Taxa de Mediu\Taxa de Mediu\obj\Debug\Taxa_de_Mediu.Form1.resources
+C:\Users\Robert\Desktop\Teme Poo\Taxa de Mediu\Taxa de Mediu\obj\Debug\Taxa_de_Mediu.Properties.Resources.resources
+C:\Users\Robert\Desktop\Teme Poo\Taxa de Mediu\Taxa de Mediu\obj\Debug\Taxa de Mediu.csproj.GenerateResource.cache
+C:\Users\Robert\Desktop\Teme Poo\Taxa de Mediu\Taxa de Mediu\obj\Debug\Taxa de Mediu.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\Teme Poo\Taxa de Mediu\Taxa de Mediu\obj\Debug\Taxa de Mediu.exe
+C:\Users\Robert\Desktop\Teme Poo\Taxa de Mediu\Taxa de Mediu\obj\Debug\Taxa de Mediu.pdb
