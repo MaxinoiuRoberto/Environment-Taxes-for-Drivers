@@ -1,0 +1,7 @@
+Emisia de dioxid de carbon (grame CO2 / km)=70
+Nivelul taxei specifice (euro / 1 gram CO2)=17 
+Capacitate cilindrica=1999 
+Nivelul taxei specifice(euro / 1 cmc)=2 
+Reducerea aferenta=60 
+  
+ 
